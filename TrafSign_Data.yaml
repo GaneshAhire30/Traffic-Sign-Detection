@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/AI Expert Project/Traffic Sign Detection/train
+val: /content/drive/MyDrive/AI Expert Project/Traffic Sign Detection/val
+
+nc: 43
+names: ['ahead_only', 'animal_crossing','around_the_corner','Compulsary_keep_right','compulsort_ahead_or_turnleft','compulsory_ahead_or_turnright','compulsory_keep_left',
+'construstion_side_ahead','cross_ahead','cycle_crossing','dangours_curve_to_right','do_not_enter','end_of_no_passing_zone','end_of_no_passing_zone_for_trucks','end_speed_limit80',
+'give_way','ice_road_ahead','narrow_road','no_overtaking','no_overtaking_by_truck','pedistrian_crossway','priority_road','retricated_area','right_reverse_bend','road_closed',
+'round_about','school_ahead','slippery_road','speed_limit20','speed_limit30','speed_limit50','speed_limit60','speed_limit70','speed_limit80','speed_limit100','speed_limit120',
+'stop','traffic_sign_ahead','truck_traffic_sign','turn_left_ahead','turn_right_ahead','uneven_road','warning']
